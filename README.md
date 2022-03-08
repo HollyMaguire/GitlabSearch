@@ -1,4 +1,4 @@
-This was a coding challenge with the paramaeters being:
+This was a coding challenge from Point, with the parameters being:
 Create an app which allows the user to search Gitlab projects and display details about each project.
 You have the choice to create either:
 a mobile React Native app (no expo please), or
